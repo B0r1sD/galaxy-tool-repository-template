@@ -1,7 +1,7 @@
 name: Galaxy Tool Linting and Tests for push and PR
 on: [push, pull_request]
 env:
-  GALAXY_FORK: galaxyproject
+  GALAXY_FORK: B0r1sD
   GALAXY_BRANCH: release_21.05
   MAX_CHUNKS: 4
 jobs:
